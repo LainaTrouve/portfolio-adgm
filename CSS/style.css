@@ -1,0 +1,21 @@
+
+        figure {
+         border:2px solid rgb(9, 99, 96);
+         width: 150px;
+        }
+        img{
+         width:100%;
+        }
+        figcaption {
+            display:none;
+        }
+        .sectionheader {
+            border:2px solid rgb(2, 92, 75);
+            color: rgb(139, 255, 255);
+            background-color: rgb(16, 140, 144);
+        }
+        nav li {
+            background-color: rgb(42, 151, 165);
+        }
+        
+
